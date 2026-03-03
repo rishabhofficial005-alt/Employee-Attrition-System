@@ -78,4 +78,5 @@ uvicorn main:app --reload
 ## 🌍 Live API
 
 Deployed URL:
-https://your-app-name.onrender.com/docs
+https://employee-attrition-system.onrender.com/docs
+
