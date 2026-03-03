@@ -75,3 +75,7 @@ The trained model is deployed using FastAPI.
 
 ```bash
 uvicorn main:app --reload
+## 🌍 Live API
+
+Deployed URL:
+https://your-app-name.onrender.com/docs
