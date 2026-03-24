@@ -28,8 +28,8 @@ streamlit run web.py
 ```
 
 Then open:
-- Streamlit UI → http://localhost:8501
-- API Docs → http://127.0.0.1:8000/docs
+- Streamlit UI → https://employee-attrition-system-2szkececauuzxlk7wz5hsk.streamlit.app/
+- API Docs → https://employee-attrition-system-2.onrender.com
 
 ---
 
