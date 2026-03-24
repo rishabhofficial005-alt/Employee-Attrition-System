@@ -1,0 +1,53 @@
+2026-03-23 16:57:13,828 - INFO - Loading model from disk...
+2026-03-23 16:57:14,269 - INFO - Loading model from disk...
+2026-03-23 16:57:17,448 - INFO - Loading model from disk...
+2026-03-23 16:57:18,142 - INFO - Loading model from disk...
+2026-03-23 16:57:27,038 - INFO - Loading model from disk...
+2026-03-23 16:57:28,201 - INFO - Loading model from disk...
+2026-03-23 16:57:46,003 - INFO - Loading model from disk...
+2026-03-23 16:57:46,399 - INFO - Loading model from disk...
+2026-03-23 16:57:49,755 - INFO - Loading model from disk...
+2026-03-23 16:57:49,968 - INFO - Loading model from disk...
+2026-03-23 16:59:12,915 - INFO - Loading model from disk...
+2026-03-23 17:18:26,426 - INFO - Loading model from disk...
+2026-03-23 17:18:30,839 - INFO - Model loaded successfully and cached
+2026-03-23 17:18:31,014 - INFO - FastAPI server started successfully
+2026-03-23 17:18:31,014 - INFO - Model is ready for predictions
+2026-03-23 17:18:32,027 - INFO - Health check endpoint called
+2026-03-23 17:19:01,666 - INFO - Single prediction request — Age=18, Department=Sales, OverTime=Yes, MonthlyIncome=1
+2026-03-23 17:19:01,890 - INFO - Prediction result — Likely to Leave, Probability=0.7506, Confidence=High
+2026-03-23 17:21:17,292 - INFO - FastAPI server is shutting down
+2026-03-23 17:21:19,559 - INFO - Loading model from disk...
+2026-03-23 17:21:19,562 - INFO - Loading model from disk...
+2026-03-23 17:21:21,719 - INFO - Model loaded successfully and cached
+2026-03-23 17:21:21,791 - INFO - Model loaded successfully and cached
+2026-03-23 17:21:21,853 - INFO - FastAPI server started successfully
+2026-03-23 17:21:21,853 - INFO - Model is ready for predictions
+2026-03-23 17:21:21,895 - INFO - FastAPI server started successfully
+2026-03-23 17:21:21,895 - INFO - Model is ready for predictions
+2026-03-23 17:21:21,957 - INFO - FastAPI server is shutting down
+2026-03-23 17:21:22,325 - INFO - FastAPI server is shutting down
+2026-03-23 17:21:23,601 - INFO - Loading model from disk...
+2026-03-23 17:21:24,082 - INFO - Loading model from disk...
+2026-03-23 17:21:25,639 - INFO - Model loaded successfully and cached
+2026-03-23 17:21:25,735 - INFO - FastAPI server started successfully
+2026-03-23 17:21:25,735 - INFO - Model is ready for predictions
+2026-03-23 17:21:26,060 - INFO - Model loaded successfully and cached
+2026-03-23 17:21:26,150 - INFO - FastAPI server started successfully
+2026-03-23 17:21:26,150 - INFO - Model is ready for predictions
+2026-03-23 17:22:50,308 - INFO - Single prediction request — Age=30, Department=Sales, OverTime=Yes, MonthlyIncome=5000
+2026-03-23 17:22:50,461 - INFO - Prediction result — Likely to Leave, Probability=0.6518, Confidence=Medium
+2026-03-23 18:03:38,071 - INFO - Single prediction request — Age=30, Department=Sales, OverTime=Yes, MonthlyIncome=5000
+2026-03-23 18:03:38,365 - INFO - Prediction result — Likely to Leave, Probability=0.6244, Confidence=Medium
+2026-03-23 18:03:46,460 - INFO - Single prediction request — Age=30, Department=Sales, OverTime=Yes, MonthlyIncome=5000
+2026-03-23 18:03:47,030 - INFO - Prediction result — Likely to Leave, Probability=0.6257, Confidence=Medium
+2026-03-23 18:03:53,805 - INFO - Single prediction request — Age=41, Department=Sales, OverTime=Yes, MonthlyIncome=5000
+2026-03-23 18:03:54,097 - INFO - Prediction result — Likely to Leave, Probability=0.6014, Confidence=Medium
+2026-03-23 18:04:05,191 - INFO - Single prediction request — Age=41, Department=Sales, OverTime=Yes, MonthlyIncome=5000
+2026-03-23 18:04:05,592 - INFO - Prediction result — Likely to Leave, Probability=0.5509, Confidence=Medium
+2026-03-23 18:05:30,731 - INFO - Single prediction request — Age=41, Department=Sales, OverTime=Yes, MonthlyIncome=5000
+2026-03-23 18:05:31,159 - INFO - Prediction result — Likely to Leave, Probability=0.5503, Confidence=Medium
+2026-03-23 18:06:23,224 - INFO - Single prediction request — Age=41, Department=Sales, OverTime=Yes, MonthlyIncome=5000
+2026-03-23 18:06:23,645 - INFO - Prediction result — Likely to Leave, Probability=0.5576, Confidence=Medium
+2026-03-23 18:06:37,771 - INFO - Single prediction request — Age=41, Department=Sales, OverTime=Yes, MonthlyIncome=100000
+2026-03-23 18:06:38,072 - INFO - Prediction result — Likely to Leave, Probability=0.543, Confidence=Medium
